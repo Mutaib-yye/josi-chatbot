@@ -1,0 +1,3 @@
+requests>=2.20.0
+customtkinter>=5.2.0
+pillow>=10.0.0
