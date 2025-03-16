@@ -1,8 +1,4 @@
 better-profanity==0.7.0
-customtkinter
-requests
-json
-threading
-datetime
-re
+customtkinter==5.2.2
+requests==2.32.3
 google-generativeai
