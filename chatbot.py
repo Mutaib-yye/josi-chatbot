@@ -74,7 +74,7 @@ NOTE: If you are returning data for a "company check," respond EXACTLY with "VAL
 """
 
 # 3. API Configuration
-API_KEY = "AIzaSyC4v9u3RoGa_A1VuXT3xQSfl_XBRwGCP48"  # <-- Replace with your real API key
+API_KEY = "api key here"  # <-- Replace with your real API key
 API_URL = "https://generativelanguage.googleapis.com/v1/models/gemini-2.0-flash:generateContent"
 
 def call_gemini_api(prompt):
